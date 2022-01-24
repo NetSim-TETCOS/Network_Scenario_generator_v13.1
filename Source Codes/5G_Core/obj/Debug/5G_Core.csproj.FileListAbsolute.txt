@@ -1,0 +1,14 @@
+C:\Users\mridula\source\repos\5G_Core\5G_Core\bin\Debug\5G_Core.exe.config
+C:\Users\mridula\source\repos\5G_Core\5G_Core\bin\Debug\5G_Core.exe
+C:\Users\mridula\source\repos\5G_Core\5G_Core\bin\Debug\5G_Core.pdb
+C:\Users\mridula\source\repos\5G_Core\5G_Core\obj\Debug\5G_Core.csproj.CoreCompileInputs.cache
+C:\Users\mridula\source\repos\5G_Core\5G_Core\obj\Debug\5G_Core.exe
+C:\Users\mridula\source\repos\5G_Core\5G_Core\obj\Debug\5G_Core.pdb
+C:\Users\mridula\source\repos\5G_Core\5G_Core\obj\Debug\5G_Core.csprojAssemblyReference.cache
+C:\Users\Vishal Bhat\Downloads\Network_Scenario_generator_v13.1\Source Codes\5G_Core\bin\Debug\5G_Core.exe.config
+C:\Users\Vishal Bhat\Downloads\Network_Scenario_generator_v13.1\Source Codes\5G_Core\bin\Debug\5G_Core.exe
+C:\Users\Vishal Bhat\Downloads\Network_Scenario_generator_v13.1\Source Codes\5G_Core\bin\Debug\5G_Core.pdb
+C:\Users\Vishal Bhat\Downloads\Network_Scenario_generator_v13.1\Source Codes\5G_Core\obj\Debug\5G_Core.csproj.AssemblyReference.cache
+C:\Users\Vishal Bhat\Downloads\Network_Scenario_generator_v13.1\Source Codes\5G_Core\obj\Debug\5G_Core.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Bhat\Downloads\Network_Scenario_generator_v13.1\Source Codes\5G_Core\obj\Debug\5G_Core.exe
+C:\Users\Vishal Bhat\Downloads\Network_Scenario_generator_v13.1\Source Codes\5G_Core\obj\Debug\5G_Core.pdb
